@@ -56,6 +56,7 @@ a {
   height: 100px;
   margin: 1%;
   line-height: 30px;
+  float: left;
 
   background-color: #0f0e17;
   color: white;
